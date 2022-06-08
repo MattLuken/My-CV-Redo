@@ -11,6 +11,8 @@ Click on <https://buas-media-interactive.github.io/prj4-cv/> to see what the ré
 Create your own GitHub repository based on this template by clicking on
 [Use this template](https://github.com/buas-media-interactive/prj4-cv/generate).
 
+Click on <https://mattluken.github.io/My-CV-Redo> to see what the Individual Website looks like.
+
 ## Course requirements
 
 In order to pass the individual assessment, you must modify the following elements:
